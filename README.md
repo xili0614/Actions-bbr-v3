@@ -1,7 +1,7 @@
 # ✨BBR 管理脚本✨  
 
 ### 🌟 简介  
-欢迎来到 **Joey** 的 BBR 管理脚本！  
+  
 这是一个功能强大又超可爱的脚本，用于管理 Linux 下的 BBR 拥塞控制算法和队列管理算法。无论是**安装 BBR v3**，还是切换到更适合你的加速方式，这里统统搞定！  
 
 > 📢 **支持架构：** `x86_64` & `aarch64`  
@@ -56,16 +56,13 @@ A: 有可能是 GitHub 链接过期了，来群里吐槽一下吧！
 **Q: 我不是 BBR 专家，不知道选哪个加速方案？**  
 A: 放心，BBR + FQ 是最常见的方案，适用于大多数场景～  
 
-**Q: 如果不小心把系统搞崩了怎么办？**  
-A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.net) 查看修复教程。
+
 
 ---
 
-### 🌈 作者信息  
+ 
 
-**Joey**  
-📖 博客：[JoeyBlog](https://joeyblog.net)  
-💬 群组：[Telegram Feedback Group](https://t.me/+ft-zI76oovgwNmRh)
+
 
 ---
 
